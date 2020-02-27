@@ -1,0 +1,26 @@
+0   *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh -s
+2   *  *   *   *     /home/wifispecman/prj/optimizer/run_optimizer.sh
+4   *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+5   *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+9   *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+10  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+14  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+15  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+19  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+20  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+24  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+25  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+29  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+30  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+34  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+35  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+39  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+40  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+44  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+45  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+49  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+50  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+54  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+55  *  *   *   *     /home/wifispecman/prj/wrinfo_periodic.sh
+59  *  *   *   *     /home/wifispecman/prj/run_all_iperfs.sh
+
